@@ -7,7 +7,7 @@
 </h2>
 
 <p align="center">
-  React Blog is a personal blog system build on React that helps you create your own personal blog using Github Issues  
+  React Blog is a personal blog system build on React that helps you create your own personal blog using Github Issues  (w/webhooks)
 </p>
 
 <p align="center"> 
